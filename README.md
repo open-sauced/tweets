@@ -1,4 +1,5 @@
-# open-sauced/tweets
+<img style="width: 90px" src="https://github.com/open-sauced/assets/blob/master/socialcard.png">
+
 Location for sending tweets to the Open Sauced twitter account. 
 
 # The tweets/ folder
